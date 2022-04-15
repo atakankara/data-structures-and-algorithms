@@ -1,2 +1,2 @@
 # data-structures-and-algorithms
-Implementations of various data structures and algorithms from scratch.
+This repository contains implementations of various data structures and algorithms from scratch.
